@@ -1,0 +1,13 @@
+# Secrets and local env
+.env*
+secrets/
+
+# Source documents from the client and working files are never published
+*.pdf
+*.docx
+*.xlsx
+scratch/
+
+# OS / tooling
+.DS_Store
+node_modules/
