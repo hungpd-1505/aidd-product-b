@@ -18,7 +18,7 @@ Repo này chỉ chứa markdown và issue do tôi tự viết. Không có RFP, k
 - Repo: https://github.com/hungpd-1505/aidd-product-b
 - GitHub Project: https://github.com/users/hungpd-1505/projects/3
 - Báo cáo HTML chấm SWP: cập nhật ở phần 2
-- Kiểm truy cập không đăng nhập: chưa kiểm — cập nhật sau khi publish
+- Đã mở thử repo và Project bằng **cửa sổ ẩn danh** (không đăng nhập) ngày 2026-10-19: xem được board, issue và sub-issue.
 
 ## Cấu trúc repo
 
