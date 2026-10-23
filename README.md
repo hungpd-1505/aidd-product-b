@@ -9,7 +9,7 @@ Repo này chỉ chứa markdown và issue do tôi tự viết. Không có RFP, k
 
 - **Nguồn break:** bộ thiết kế LAB-4 (wireframe, kiến trúc, 8 ADR, DB/API, screen spec, technical design) **bản đã nộp ngày 2026-10-09**.
 - **PREMISE có thay đổi:** 23 dòng sửa spec, 21 giả định bổ sung, 4 hướng chốt — chi tiết ở [PREMISE.md](PREMISE.md). Phần còn lại bám nguyên LAB-4.
-- **Backlog:** 12 epic · 127 issue · 246 sub-issue, dựng bằng sub-issue native của GitHub. 75 chỗ hở / mâu thuẫn của spec phát hiện khi break được ghi ở [task-breakdown.md](task-breakdown.md) §4.
+- **Backlog:** 12 epic · 127 issue · 246 sub-issue, dựng bằng sub-issue native của GitHub. 79 chỗ hở / mâu thuẫn của spec phát hiện khi break (gồm 4 dòng G-X-05..08 tìm thêm lúc review điểm SWP) được ghi ở [task-breakdown.md](task-breakdown.md) §4.
 - **Ràng buộc đặc thù** (giờ lái xe tải từ 2024, 3 dải nhiệt, 賞味期限 / 消費期限, 1/3–1/2, 日付逆転禁止, FEFO, truy xuất gạo / thịt bò, HACCP) đều có issue riêng mang nhãn `constraint:*`.
 - **Sprint giả lập:** chưa chạy — cập nhật ở phần 2 (chấm SWP, quy giờ, Iteration, báo cáo tiến độ).
 
